@@ -23,7 +23,7 @@ from plotly.graph_objs import *
 
 torch.manual_seed(0)
 model = AtriumSegmentation()
-model = AtriumSegmentation.load_from_checkpoint(r"logs2\logs2\lightning_logs\version_0\checkpoints\epoch=48-step=11858.ckpt")
+model = AtriumSegmentation.load_from_checkpoint(r"logs2/logs2/lightning_logs/version_0/checkpoints/epoch=48-step=11858.ckpt")
 
 device = torch.device("cuda:0"if torch.cuda.is_available() else "cpu")
 model.eval();
