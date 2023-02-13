@@ -11,4 +11,4 @@ torch==1.11.0
 tqdm==4.64.0
 opencv-python-headless
 pip==23.0
-ffmpeg-python==0.2.0
+ffmpeg==5.1.2
