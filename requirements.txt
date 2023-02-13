@@ -1,0 +1,11 @@
+celluloid==0.2.0
+imgaug==0.4.0
+ipython==8.10.0
+matplotlib==3.5.1
+nibabel==4.0.1
+numpy==1.23.1
+plotly==5.9.0
+pytorch_lightning==1.9.1
+streamlit==1.17.0
+torch==1.11.0
+tqdm==4.64.0
