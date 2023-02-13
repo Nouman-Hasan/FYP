@@ -11,3 +11,4 @@ torch==1.11.0
 tqdm==4.64.0
 opencv-python==4.7.0.68
 opencv==4.6.0
+pip==23.0
